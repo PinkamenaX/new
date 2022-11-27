@@ -3,6 +3,7 @@ import "fmt"
 
 func main(){
 var a string = "Olena"
-fmt.Println("Hello, ", a)
+  var pain string = "Pain..."
+fmt.Println("Hello, ", a, pain)
 
 }
